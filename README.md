@@ -2,8 +2,8 @@
 ### This is a system which enables farmers to monitor and control their farms with a web-based application built with Node-RED. It uses IBM IoT Watson cloud platform as its backend.
 #### I have shared the links of demo videos below which I have done on this project
 ## For Project Demo video link uploaded in Youtube click [here](https://youtu.be/xyEOeOEuwMU)
-## For Project PPT Demo video link click [here]()
-## For Project Feedback video link click [here]()
+## For Project PPT Demo video link click [here](https://drive.google.com/file/d/16ZtkHV_Kp8Nzeuk6qBPA0l_zbg2e7ulI/view?usp=sharing)
+## For Project Feedback video link click [here](https://drive.google.com/file/d/1sZuJtjXyQ_O0wfN-W7J3CAa8hwGaakdf/view?usp=sharing)
 ## Description
 1.)Smart Agriculture System based on IoT can monitor soil moisture and climatic conditions to grow and yield a good crop.
 
